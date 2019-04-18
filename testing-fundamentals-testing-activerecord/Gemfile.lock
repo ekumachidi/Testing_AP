@@ -18,7 +18,7 @@ GEM
     builder (3.2.2)
     diff-lcs (1.2.5)
     i18n (0.6.11)
-    json (1.8.1)
+    json (1.8.6)
     minitest (5.4.2)
     rake (10.3.2)
     rspec (3.1.0)
@@ -46,3 +46,6 @@ DEPENDENCIES
   rake
   rspec (~> 3.1)
   sqlite3
+
+BUNDLED WITH
+   1.16.6
